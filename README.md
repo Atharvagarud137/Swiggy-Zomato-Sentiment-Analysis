@@ -8,5 +8,6 @@ This repository contains code and resources related to sentiment analysis on cus
 * Results: This directory contains the results of the sentiment analysis, including visualizations, summary reports (using Pandas Profiler), and any other output generated from the analysis scripts.
 
 # Usage
-Clone the repository: **git clone https://github.com/username/Swiggy-Zomato-Sentiment-Analysis.git
-**
+* Clone the repository: *git clone https://github.com/Atharvagarud137/Swiggy-Zomato-Sentiment-Analysis.git*
+* Execute the cells
+* View the results
